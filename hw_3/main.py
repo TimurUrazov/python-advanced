@@ -1,6 +1,6 @@
 import numpy as np
 
-from src.matrix import ArithmeticMatrixArray, Matrix
+from hw_3.matrix import ArithmeticMatrixArray, Matrix
 
 if __name__ == "__main__":
     np.random.seed(0)
