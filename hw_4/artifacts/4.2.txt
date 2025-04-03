@@ -1,0 +1,76 @@
+one job: 1
+n_jobs: 1
+threads: 0.81
+threads res: 1.00
+procs: 1.51
+procs res: 1.00
+n_jobs: 2
+threads: 0.77
+threads res: 1.00
+procs: 1.05
+procs res: 1.00
+n_jobs: 3
+threads: 0.77
+threads res: 1.00
+procs: 0.95
+procs res: 1.00
+n_jobs: 4
+threads: 0.77
+threads res: 1.00
+procs: 0.84
+procs res: 1.00
+n_jobs: 5
+threads: 0.76
+threads res: 1.00
+procs: 0.89
+procs res: 1.00
+n_jobs: 6
+threads: 0.76
+threads res: 1.00
+procs: 0.90
+procs res: 1.00
+n_jobs: 7
+threads: 0.75
+threads res: 1.00
+procs: 0.77
+procs res: 1.00
+n_jobs: 8
+threads: 0.76
+threads res: 1.00
+procs: 0.85
+procs res: 1.00
+n_jobs: 9
+threads: 0.76
+threads res: 1.00
+procs: 0.95
+procs res: 1.00
+n_jobs: 10
+threads: 0.78
+threads res: 1.00
+procs: 0.97
+procs res: 1.00
+n_jobs: 11
+threads: 0.76
+threads res: 1.00
+procs: 0.98
+procs res: 1.00
+n_jobs: 12
+threads: 0.78
+threads res: 1.00
+procs: 0.91
+procs res: 1.00
+n_jobs: 13
+threads: 0.79
+threads res: 1.00
+procs: 1.05
+procs res: 1.00
+n_jobs: 14
+threads: 0.76
+threads res: 1.00
+procs: 0.88
+procs res: 1.00
+n_jobs: 15
+threads: 0.80
+threads res: 1.00
+procs: 0.84
+procs res: 1.00
